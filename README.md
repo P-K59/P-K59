@@ -33,6 +33,18 @@ A machine learning model that detects spam emails with high accuracy and even tr
 
 👉 https://github.com/P-K59/Frature-based-Spam-email-and-IP-Detection-using-machine-learning
 
+### 📱 QR Menu Ordering System (Startup)  
+- Built a smart **contactless restaurant menu system** using QR codes  
+- Customers can scan QR to view menu, place orders, and reduce wait time  
+- Helps restaurants improve efficiency and provide a modern dining experience  
+- Designed as a **scalable startup solution** for cafes & restaurants
+
+  👉 https://qrmenusystem.netlify.app/
+
+**Tech Used:** HTML, CSS, JavaScript, Python (optional backend), QR Integration  
+
+🚀 *Vision:* Transform traditional restaurants into **digital-first smart dining spaces**
+
 ---
 
 ## 🧰 Tech Toolbox  
