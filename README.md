@@ -1,12 +1,105 @@
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=P-K59&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=P-K59&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P-K59&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hey 👋, I'm Pankaj Kumar</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | IT Trainer | Robotics Mentor</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=P-K59&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 A bit about me  
+
+- 🎓 Computer Science graduate who enjoys turning ideas into real-world solutions  
+- 👨‍🏫 Currently working as an **IT Trainer**, helping students become job-ready  
+- 🤖 Previously trained students in **Robotics & AI projects**  
+- ☁️ AWS Certified Cloud Practitioner  
+- 💡 I love working on **AI, Data Science, IoT & Automation**  
+- 🎯 Strong believer in *learning by building*  
+
+📫 Reach me at: **pkvbspu2020@gmail.com**
+
+---
+
+## ⚡ What I Do  
+
+- 🧠 Teach **Python, Java, DSA, AI/ML**
+- 🛠️ Build **machine learning models & real-world projects**
+- 🤖 Work with **Arduino, ESP32, Raspberry Pi**
+- 📊 Guide students in **projects, coding practice & interviews**
+
+---
+
+## 🚀 Projects I’ve Worked On  
+
+### 🛡️ Smart Spam Email Detector  
+A machine learning model that detects spam emails with high accuracy and even traces IP location.  
+**Tech Used:** Python, TensorFlow, Naive Bayes  
+
+👉 https://github.com/P-K59/Frature-based-Spam-email-and-IP-Detection-using-machine-learning
+
+---
+
+## 🧰 Tech Toolbox  
+
+💻 **Languages:**  
+Python | Java | C/C++ | JavaScript | SQL  
+
+🌐 **Web & Tools:**  
+HTML | CSS | GitHub | VS Code | Jupyter  
+
+🤖 **AI/ML:**  
+TensorFlow | OpenCV | Pandas | NumPy  
+
+☁️ **Cloud:**  
+AWS (EC2, S3, IAM, Lambda, RDS)  
+
+⚙️ **Hardware & IoT:**  
+Arduino | ESP32 | Raspberry Pi | Sensors  
+
+---
+
+## 💼 Work Journey  
+
+**👨‍🏫 IT Trainer**  
+- Teaching real-world coding skills  
+- Conducting hands-on sessions  
+- Helping students crack placements  
+
+**🤖 Robotics & Coding Trainer**  
+- Built interactive projects with students  
+- Worked with IoT devices and sensors  
+- Focused on practical learning  
+
+---
+
+## 🏆 Highlights  
+
+- 🥇 Gold badge in Python (HackerRank)  
+- 🥈 Silver badge in Java  
+- 🎯 Qualified UGC NET 2024  
+- 🏆 District-level competition rank holder  
+- ☁️ AWS Certified  
+
+---
+
+## 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P-K59&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-K59&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Exploring  
+
+- Advanced AI & Deep Learning  
+- Real-world AI applications  
+- Scalable cloud-based systems  
+
+---
+
+## 🤝 Let’s Connect  
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/pankajkumar-tech/*  
+- 📧 Email: **pkvbspu2020@gmail.com**
+
+---
+
+⭐ *"Keep building, keep learning — that’s the real game."*
