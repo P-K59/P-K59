@@ -1,96 +1,97 @@
 <h1 align="center">Hey 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | IT Trainer | Robotics Mentor</h3>
+<h3 align="center">🚀 Founder | AI Builder | IT Trainer</h3>
 
 ---
 
-## 🌟 A bit about me  
+## ⚡ Who Am I  
 
-- 🎓 Computer Science graduate who enjoys turning ideas into real-world solutions  
-- 👨‍🏫 Currently working as an **IT Trainer**, helping students become job-ready  
-- 🤖 Previously trained students in **Robotics & AI projects**  
+- 👨‍💻 Founder of **Popat AI** & **QR Menu System**  
+- 👨‍🏫 IT Trainer helping students become industry-ready  
+- 🤖 Passionate about **AI, Automation, Robotics & Cloud**  
 - ☁️ AWS Certified Cloud Practitioner  
-- 💡 I love working on **AI, Data Science, IoT & Automation**  
-- 🎯 Strong believer in *learning by building*  
+- 🎯 Focused on building **real-world impactful solutions**  
 
-📫 Reach me at: **pkvbspu2020@gmail.com**
-
----
-
-## ⚡ What I Do  
-
-- 🧠 Teach **Python, Java, DSA, AI/ML**
-- 🛠️ Build **machine learning models & real-world projects**
-- 🤖 Work with **Arduino, ESP32, Raspberry Pi**
-- 📊 Guide students in **projects, coding practice & interviews**
+📫 **Email:** pkvbspu2020@gmail.com  
 
 ---
 
-## 🚀 Projects I’ve Worked On  
+## 🚀 What I’m Building  
 
-### 🛡️ Smart Spam Email Detector  
-A machine learning model that detects spam emails with high accuracy and even traces IP location.  
-**Tech Used:** Python, TensorFlow, Naive Bayes  
+### 🤖 Popat AI – Personal AI Agent for PC  
+A smart AI assistant designed to automate tasks and enhance productivity on your computer.  
 
-👉 https://github.com/P-K59/Frature-based-Spam-email-and-IP-Detection-using-machine-learning
+🔹 Automates daily workflows  
+🔹 Acts as a personal assistant for your system  
+🔹 Future vision: Full AI-powered desktop control  
 
-### 📱 QR Menu Ordering System (Startup)  
-- Built a smart **contactless restaurant menu system** using QR codes  
-- Customers can scan QR to view menu, place orders, and reduce wait time  
-- Helps restaurants improve efficiency and provide a modern dining experience  
-- Designed as a **scalable startup solution** for cafes & restaurants
-
-  👉 https://qrmenusystem.netlify.app/
-
-**Tech Used:** HTML, CSS, JavaScript, Python (optional backend), QR Integration  
-
-🚀 *Vision:* Transform traditional restaurants into **digital-first smart dining spaces**
+**💡 Vision:** Replace manual work with intelligent automation  
 
 ---
 
-## 🧰 Tech Toolbox  
+### 📱 QR Menu System – Smart Restaurant Startup  
+A contactless digital ordering system for modern restaurants.  
 
-💻 **Languages:**  
+🔹 Scan QR → View Menu → Order instantly  
+🔹 Reduces wait time & improves efficiency  
+🔹 Designed as a scalable solution for restaurants  
+👉https://qrmenusystem.netlify.app/
+
+**💡 Vision:** Build a **digital-first restaurant ecosystem**  
+
+---
+
+## 🧠 What I Do  
+
+- 🧑‍🏫 Teach **Python | Java | DSA | AI/ML**  
+- 🤖 Build **AI systems & automation tools**  
+- ⚙️ Work on **IoT projects (ESP32, Arduino, Raspberry Pi)**  
+- 📊 Guide students with **real-world projects & placements**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
 Python | Java | C/C++ | JavaScript | SQL  
 
-🌐 **Web & Tools:**  
-HTML | CSS | GitHub | VS Code | Jupyter  
-
-🤖 **AI/ML:**  
+**AI/ML:**  
 TensorFlow | OpenCV | Pandas | NumPy  
 
-☁️ **Cloud:**  
+**Cloud:**  
 AWS (EC2, S3, IAM, Lambda, RDS)  
 
-⚙️ **Hardware & IoT:**  
-Arduino | ESP32 | Raspberry Pi | Sensors  
+**Tools:**  
+VS Code | Jupyter | GitHub | Tableau  
+
+**Hardware:**  
+ESP32 | Arduino | Raspberry Pi | Sensors  
 
 ---
 
-## 💼 Work Journey  
+## 💼 Experience  
 
-**👨‍🏫 IT Trainer**  
-- Teaching real-world coding skills  
-- Conducting hands-on sessions  
-- Helping students crack placements  
+### 👨‍🏫 IT Trainer – ABC Technology  
+- Training students in real-world technologies  
+- Conducting hands-on sessions & mock interviews  
+- Helping students become job-ready  
 
-**🤖 Robotics & Coding Trainer**  
-- Built interactive projects with students  
-- Worked with IoT devices and sensors  
-- Focused on practical learning  
+### 🤖 Coding & Robotics Trainer – Infinity Learn  
+- Delivered AI, Python & Robotics training  
+- Built real-world IoT projects with students  
 
 ---
 
-## 🏆 Highlights  
+## 🏆 Achievements  
 
-- 🥇 Gold badge in Python (HackerRank)  
-- 🥈 Silver badge in Java  
+- 🥇 Gold Badge in Python (HackerRank)  
+- 🥈 Silver Badge in Java  
 - 🎯 Qualified UGC NET 2024  
-- 🏆 District-level competition rank holder  
-- ☁️ AWS Certified  
+- ☁️ AWS Certified (86.7%)  
+- 🏆 District-level Rank Holder  
 
 ---
 
-## 📊 GitHub Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=P-K59&show_icons=true&theme=tokyonight" />
@@ -99,19 +100,19 @@ Arduino | ESP32 | Raspberry Pi | Sensors
 
 ---
 
-## 🌱 Currently Exploring  
+## 🌱 Currently Focused On  
 
-- Advanced AI & Deep Learning  
-- Real-world AI applications  
-- Scalable cloud-based systems  
+- Building scalable AI products  
+- Developing automation tools  
+- Creating startup-level solutions  
 
 ---
 
 ## 🤝 Let’s Connect  
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/pankajkumar-tech/*  
-- 📧 Email: **pkvbspu2020@gmail.com**
+- 📧 Email: pkvbspu2020@gmail.com  
 
 ---
 
-⭐ *"Keep building, keep learning — that’s the real game."*
+🔥 *"I don’t just learn tech — I build things that solve real problems."*
